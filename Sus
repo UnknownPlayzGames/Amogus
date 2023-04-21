@@ -4,7 +4,7 @@ game.Players.LocalPlayer.Character["Pink Hair"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Kate Hair"].Handle.Mesh:Destroy() --LavanderHair
 game.Players.LocalPlayer.Character["LavanderHair"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Robloxclassicred"].Handle.Mesh:Destroy()
-game.Players.LocalPlayer.Character["LN_2021_Closed"].Handle.Mesh:Destroy()
+game.Players.LocalPlayer.Character["VANS_Umbrella"].Handle.Mesh:Destroy()
  --VarietyShades02
  --TennisBall
  
